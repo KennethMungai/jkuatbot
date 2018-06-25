@@ -1,0 +1,105 @@
+{
+  "id": "85ee820c-b534-457e-a943-eb89570e074b",
+  "name": "bot.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order",
+      "affectedContexts": [
+        {
+          "name": "botorder-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5c639dad-8bd0-4e34-be35-90ea62d6a491",
+          "required": true,
+          "dataType": "@industry",
+          "name": "industry",
+          "value": "$industry",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the industry you\u0027re working at?"
+            },
+            {
+              "lang": "en",
+              "value": "What field are you working in?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "55f220a0-5617-4c0f-8b1c-f1bd6947c9e6",
+          "required": true,
+          "dataType": "@platform",
+          "name": "platform",
+          "value": "$platform",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What platform are you launching for?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "slack",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are you planning to use a web service?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true,
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1494989999957,
+  "fallbackIntent": false,
+  "events": []
+}

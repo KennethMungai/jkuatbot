@@ -1,0 +1,157 @@
+[
+  {
+    "id": "25adf3c6-d5d3-4750-8547-309d6b9e5b38",
+    "data": [
+      {
+        "text": "don\u0027t know anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495026295
+  },
+  {
+    "id": "c2bb7a16-5fe8-4c8e-ab03-1b167b8bf653",
+    "data": [
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495026295
+  },
+  {
+    "id": "debe33e5-c140-4a6c-9923-d191af7a3db9",
+    "data": [
+      {
+        "text": "just starting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "911c2c6a-5b62-438e-ac0b-0f2f59340415",
+    "data": [
+      {
+        "text": "I\u0027m just starting to dive into bot\u0027s world",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8709a8da-20ff-42fb-a825-1c719fe3275c",
+    "data": [
+      {
+        "text": "I\u0027m doing it for the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c127f29-3925-42e0-81ff-cf6b6c43578b",
+    "data": [
+      {
+        "text": "don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495026295
+  },
+  {
+    "id": "f124a878-de57-4e29-a688-210153695714",
+    "data": [
+      {
+        "text": "beginner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bd532e7-e286-43e2-9143-55d786e09abe",
+    "data": [
+      {
+        "text": "it\u0027s going to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c47861e-70de-4c6d-b6d1-726b7d67824d",
+    "data": [
+      {
+        "text": "elementary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42a8f5c6-3d52-4d2b-8076-643a19f04592",
+    "data": [
+      {
+        "text": "I\u0027m a beginner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b60491eb-2afb-4b6d-af03-d10b34b3e89d",
+    "data": [
+      {
+        "text": "not familiar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495026295
+  }
+]

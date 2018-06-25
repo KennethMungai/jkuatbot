@@ -1,0 +1,78 @@
+[
+  {
+    "value": "travel",
+    "synonyms": [
+      "travel"
+    ]
+  },
+  {
+    "value": "connected home",
+    "synonyms": [
+      "connected home"
+    ]
+  },
+  {
+    "value": "cars",
+    "synonyms": [
+      "cars",
+      "auto",
+      "automotive"
+    ]
+  },
+  {
+    "value": "food",
+    "synonyms": [
+      "food"
+    ]
+  },
+  {
+    "value": "support",
+    "synonyms": [
+      "support",
+      "customer support",
+      "crm"
+    ]
+  },
+  {
+    "value": "entertainment",
+    "synonyms": [
+      "entertainment",
+      "fun"
+    ]
+  },
+  {
+    "value": "finance",
+    "synonyms": [
+      "finance",
+      "bank",
+      "insurance"
+    ]
+  },
+  {
+    "value": "hotel booking",
+    "synonyms": [
+      "hotel booking",
+      "hotel"
+    ]
+  },
+  {
+    "value": "restaurant booking",
+    "synonyms": [
+      "restaurant booking",
+      "restaurant"
+    ]
+  },
+  {
+    "value": "sport",
+    "synonyms": [
+      "sport"
+    ]
+  },
+  {
+    "value": "flight booking",
+    "synonyms": [
+      "flight booking",
+      "flight"
+    ]
+  }
+]

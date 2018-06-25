@@ -1,0 +1,107 @@
+[
+  {
+    "id": "fa716db2-ab25-40a1-ad81-045da3adbcb7",
+    "data": [
+      {
+        "text": "advanced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d1ab804-5955-46c1-8ef0-3c72dd40dc0d",
+    "data": [
+      {
+        "text": "I\u0027ve built ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "+ bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5738912b-fd90-4201-af98-0b8d19e754b1",
+    "data": [
+      {
+        "text": "it\u0027s my job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af75722f-4a72-445d-9c30-90bd42e17433",
+    "data": [
+      {
+        "text": "that\u0027s how I earn money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eee56d5-1b6b-4abe-9cb2-49779882a3d7",
+    "data": [
+      {
+        "text": "advanced (several bots)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a56e64d6-f12a-4170-ac18-c870f8fa3b10",
+    "data": [
+      {
+        "text": "I build bots every day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "564fca1e-e7a4-4487-b795-6bdaaa103467",
+    "data": [
+      {
+        "text": "I do it for life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab8df717-fc55-4a66-97af-13511c5e76d7",
+    "data": [
+      {
+        "text": "I\u0027m a professional bot builder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

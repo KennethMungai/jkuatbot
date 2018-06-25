@@ -1,0 +1,129 @@
+[
+  {
+    "id": "6d814a16-4535-49f3-8d74-1977c7bbee93",
+    "data": [
+      {
+        "text": "Intermediate (",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bots)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbaea3fe-a4ee-40bc-a569-01685e345a6f",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67e8e5c7-fd9b-4d78-a69d-c42dec92290c",
+    "data": [
+      {
+        "text": "I\u0027ve built a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "bots",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55c95560-febd-4579-b3cc-2158f85df076",
+    "data": [
+      {
+        "text": "Intermediate (built a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of bots)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a901884-0dea-4773-a6a7-d9758089a4f7",
+    "data": [
+      {
+        "text": "intermediate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76b4741d-0300-4d92-84b2-d71cd1925b12",
+    "data": [
+      {
+        "text": "I\u0027m not very experienced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
